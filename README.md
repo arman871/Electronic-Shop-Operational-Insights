@@ -1,8 +1,14 @@
-# E-commerce-Operations-Analysis
-Goal: Using SQL queries to solve complex business problems.
+# Electronic Shop Operational Analysis
 
-Key Tech: SQL (SQLite/PandasQL), Data Filtering.
+### 📊 Project Overview
+Analysing 11,000+ sales records of an electronic store to find geographic demand and operational efficiency.
 
-Queries Included: Revenue per product, Identifying High-Value Customers (Transactions > $1000), and Cancellation Rate Analysis.
+### 🛠️ Tech Stack
+* **Language:** Python
+* **Libraries:** Pandas (Data Cleaning), Seaborn & Matplotlib (Visualisation)
+* **Environment:** Google Colab
 
-Impact: Found specific products with high cancellation rates to help the business reduce losses.
+### 💡 Key Findings
+* **Revenue Drivers:** Identified top-selling products like Smart TVs and Laptops.
+* **Geographic Insights:** Mapped the top 10 locations with the highest order volume.
+* **Operations:** Analysed order statuses to identify cancellation trends across different sales channels.
